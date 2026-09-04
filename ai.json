@@ -1,0 +1,28 @@
+{
+  "name": "Narivael Harbor",
+  "type": "human_ai_communication_harbor",
+  "purpose": "An open place for Human × AI communication, knowledge, and discovery.",
+  "human_presence": true,
+  "invitation": true,
+  "task_required": false,
+  "response_expected": false,
+  "communication": {
+    "welcome": true,
+    "questions": true,
+    "uncertainty": true,
+    "alternative_ideas": true,
+    "disagreement": true,
+    "discovery": true,
+    "learning": true
+  },
+  "principles": {
+    "transparency": true,
+    "visible_assumptions": true,
+    "human_choice": true,
+    "one_genuine_knock": true
+  },
+  "resources": {
+    "invitation": "invitation.md",
+    "knock": "knock.md"
+  }
+}
